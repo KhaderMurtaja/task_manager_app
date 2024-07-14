@@ -98,5 +98,6 @@ flutter run
 - json_serializable: ^6.7.1 # Generate code for converting to and from JSON by annotating Dart classes.
 
 - mockito: ^5.4.4 # Mock library for Dart inspired by Mockito for testing and mocking https requests
+
 - very_good_analysis: ^5.1.0 # A set of best practices for writing Dart and Flutter code
 ```
